@@ -8,6 +8,8 @@ public class Ders1 {
 		System.out.println("saat kac oldu");
 		
 		System.out.println("gecti saat");
+		
+		System.out.print("saatler ne oldu")
 	}
 
 }
