@@ -9,7 +9,8 @@ public class Ders1 {
 		
 		System.out.println("gecti ama olmadi");
 		
-		System.out.print("saatler ne oldu")
+		System.out.print("saatler ne oldu");
+		System.out.println("sataler geciyor");
 	}
 
 }
